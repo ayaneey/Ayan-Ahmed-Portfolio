@@ -197,7 +197,7 @@ nav a:hover::before {
 }
 
 /* -------------------------------- Projects ------------------------------------------- */
-.about-me {
+#about-me {
   background-color: var(--antique-brass);
   font-family: "Jost", sans-serif;
   margin-top: 2%;
@@ -208,7 +208,7 @@ nav a:hover::before {
   font-size: 25px;
 }
 
-.projects-title {
+#projects-title {
   background-color: var(--copper-penny);
   font-family: "Jost", sans-serif;
   margin-top: 2%;
@@ -441,9 +441,37 @@ nav a:hover::before {
 }
 
 /* -------------------------------- Contact - Footer -------------------------------- */
-.contact {
+/* #contact {
   background: var(--tuscany);
   font-family: "Jost", sans-serif;
   margin-top: 10%;
   /* margin-bottom: 10%; */
+/* } */
+
+.footer {
+  font-family: "Jost", sans-serif;
+  /* margin-top: 10%; */
+  /* position: fixed; */
+  /* left: 0;
+  bottom: 0; */
+  margin-top: 10%;
+  /* width: auto; */
+  background-color: var(--tuscany);
+  color: white;
+  text-align: center;
 }
+
+#contact {
+  /* width: 40%;
+  margin-top: 85%;
+  text-align: center;
+  margin-left: 45%; */
+  /* margin-left: 60%; */
+}
+
+/* .linkedin {
+  width: 30px;
+  height: 45px;
+  margin-right: 30%;
+  margin-bottom: -30%;
+} */

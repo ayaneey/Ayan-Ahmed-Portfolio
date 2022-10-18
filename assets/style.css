@@ -397,13 +397,13 @@ nav a:hover::before {
 
 #mini-texts {
   margin-top: 10%;
-  margin-right: 30%;
+  margin-right: 20%;
   margin-left: 19%;
 }
 
 #mini1 {
   margin-left: 130%;
-  margin-top: -54%;
+  margin-top: -60%;
   border-radius: 2px;
   border-style: solid;
   border-color: var(--champagne-pink);
@@ -415,20 +415,20 @@ nav a:hover::before {
   font-family: "Playfair Display", serif;
   font-size: 20px;
   margin-right: 64%;
-  margin-top: -25%;
+  margin-top: -20%;
   text-align: center;
 }
 
 #mini-titles2 {
   font-family: "Jost", sans-serif;
   color: rgba(135, 222, 188, 0.483);
-  margin-top: 5%;
-  margin-top: 125%;
+  margin-top: 70%;
+  /* margin-top: 125%; */
 }
 
 #mini-texts2 {
   margin-top: 12%;
-  margin-right: 30%;
+  margin-right: 20%;
   margin-left: 19%;
 }
 

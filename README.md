@@ -12,6 +12,10 @@ This portfolio compromises of all the projects and mini-projects I have complete
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## Deployed App
+
+Below, you will see a snapshot of the deployed app.
+
 ## GitHub
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)

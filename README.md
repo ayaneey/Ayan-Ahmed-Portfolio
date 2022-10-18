@@ -1,10 +1,10 @@
 # Ayan Ahmed Portfolio
 
-## Description
+## Description 📖
 
 This portfolio compromises of all the projects and mini-projects I have completed to this date. Please note, the portfolio is still undergoing changes and therefore is not fully complete!
 
-## Technologies
+## Technologies 🛠
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -17,6 +17,7 @@ This portfolio compromises of all the projects and mini-projects I have complete
 Below, you will see a snapshot of the deployed app.
 ![portfolio-gif](https://user-images.githubusercontent.com/108099259/196553813-51d77df6-232b-442b-89ad-26b79b1341c6.gif)
 
+[CLICK HERE](https://ayaneey.github.io/Ayan-Ahmed-Portfolio/)
 
 ## GitHub
 
